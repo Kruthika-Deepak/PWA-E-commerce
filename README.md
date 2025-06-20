@@ -1,4 +1,4 @@
-REAL TIME COLLABORATIVE DOCUMENT EDITOR
+PWA for E-commerce platform
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -32,7 +32,7 @@ TECH STACK:
 
 FEATURES:
 
-1.Installable E-Commerce web app (Add to Home Screen)
+1.Installable E-Commerce web app 
 
 2.Browse products even when offline
 
